@@ -1,0 +1,69 @@
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'inter', sans-serif;
+  display: flex;
+  flex-direction: column;
+  background: white;
+  padding: 2rem 3rem;
+  
+}
+
+h2 {
+  font-size: 1rem;
+  color: green;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.1rem;
+  color: #016ca5;
+  margin: 0.5rem 0;
+}
+
+ul {
+  margin: 0;
+  padding: 0 1rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+}
+
+
+.profile {
+  margin: 0;
+}
+
+.profile h1 {
+  margin: 0;
+}
+
+.profile h2 {
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+a {
+  text-decoration: none;
+  gap: 0.3rem;
+  color: black;
+}
+
+.profile p {
+  display: flex;
+  margin: 0;
+  font-weight: 500;
+}
+
+.container-experience p {
+  font-weight: 500;
+}
+
+.address-sosmed {
+  display: flex;
+  gap: 1rem;
+}
